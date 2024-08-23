@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<admins>
+  <admin id="1">
+    <nom type="VARCHAR(50)">Gestmaj@gmail.com</nom>
+    <pwd type="VARCHAR(50)">Gestmaj1</pwd>
+    
+  </admin>
+ 
+</admins>

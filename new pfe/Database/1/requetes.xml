@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<requetes>
+<requete numero="1" type="create" table="Prof" condition=""><contenu>nom VARCHAR(50) NOT NULL,prenom VARCHAR(50) NOT NULL</contenu></requete>
+
+</requetes>

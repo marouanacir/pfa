@@ -1,0 +1,237 @@
+/*Pour la police d'écriture google font*/
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Poppins" , sans-serif;
+    box-sizing: border-box;
+    transition: all.2s linear;
+    text-decoration: none;
+    border: none;
+    
+}
+
+
+img{
+    width:130px;
+   float: left;
+   
+}
+
+
+body{
+    background-image: url("../../images/service/4.png");
+   
+}
+
+header{
+    position:fixed;
+    top :0;
+    left:0;
+    right:0;
+    z-index: 20;
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 8%;
+    height:50px;
+    box-shadow: 0 0 10px 0 rgb(0,0,0,0.2);
+    border-bottom: 3px solid #ea1f;
+
+}
+
+header 
+.navbar{
+    display: flex;
+    
+}
+.navbar li{
+    list-style: none;
+    margin:0 15px;
+}
+.navbar li a{
+    font-size: 14px;
+    color: #000;
+    font-weight: 300;
+    transition: 0.2s;
+}
+.navbar li a:hover{
+   color: #ea1f;
+}
+header button{
+    background-color: #ea1f;
+    cursor: pointer;
+    color: #fff;
+    padding: 5px 25px;
+}
+header .Encadre a{
+    color: #fff;
+}
+#home {
+	background-image:url("imgHeader.jpg");
+	text-align: center;
+	width: 100%;
+	height: 430px;
+	background-size: cover;
+	background-attachment: fixed;
+	position: relative;
+	border-bottom: 4px solid #ea1f;
+	border-radius: 0 0 85% 85% / 30%;
+    padding: 110px;
+    color: white;
+    
+}
+
+
+#home .gauche span{
+    color:#ea1f;
+}
+
+/*acensseur css*/
+::-webkit-scrollbar {
+    width: 8px;
+}
+::-webkit-scrollbar-thumb{
+    background-color: #ea1f;
+}
+/*#home .gauche{
+    width:40%;
+}*/
+#home .gauche h1{
+    font-size: 35px;
+    margin-bottom: 10px;
+}*/
+#home .gauche h1 {
+    color:white;
+}
+#centre{
+margin-bottom: 30px;
+color:#000;
+font-size: medium;
+align-items: center;
+align-content: center;
+margin-left: 40px;
+margin-top: 20px;
+}
+
+
+#home .droit{
+    width:50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#home .droit img{
+    width:100%;
+}
+section{
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin-left: 400px;
+    margin-top: 60px;
+    
+}
+.form-box{
+    position: relative;
+    width: 400px;
+    height: 450px;
+    /*here where to test ----------------------------------------------------------------*/
+    background: rgb(145, 204, 16);
+    border: 4px solid #ea1f;
+    border-radius: 20px;
+    backdrop-filter: blur(15px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    backdrop-filter: blur(50px);
+
+
+}   
+h2{
+    font-size: 2em;
+    color: #fff;
+    text-align: center;
+}
+.inputbox{
+    position: relative;
+    margin: 30px 0;
+    width: 310px;
+    border-bottom: 2px solid #fff;
+}
+.inputbox label{
+    position: absolute;
+    top: 50%;
+    left: 5px;
+    transform: translateY(-50%);
+    color: #fff;
+    font-size: 1em;
+    pointer-events: none;
+    transition: .5s;
+}
+input:focus ~ label,
+input:valid ~ label{
+top: -5px;
+}
+.inputbox input {
+    width: 100%;
+    height: 50px;
+    background: transparent;
+    border: none;
+    outline: none;
+    font-size: 1em;
+    padding:0 35px 0 5px;
+    color: #fff;
+}
+.inputbox ion-icon{
+    position: absolute;
+    right: 8px;
+    color: #fff;
+    font-size: 1.2em;
+    top: 20px;
+}
+.forget{
+    margin: -15px 0 15px ;
+    font-size: .9em;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;  
+}
+
+.forget label input{
+    margin-right: 3px;
+    
+}
+.forget label a{
+    color: #fff;
+    text-decoration: none;
+}
+.forget label a:hover{
+    text-decoration: underline;
+}
+button{
+    width: 100%;
+    height: 40px;
+    border-radius: 40px;
+    background: #fff;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    font-size: 1em;
+    font-weight: 600;
+}
+.register{
+    font-size: .9em;
+    color: #fff;
+    text-align: center;
+    margin: 25px 0 10px;
+}
+.register p a{
+    text-decoration: none;
+    color: #fff;
+    font-weight: 600;
+}
+.register p a:hover{
+    text-decoration: underline;
+}

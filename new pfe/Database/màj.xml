@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<majs>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+<maj id="1"><numero_maj>1</numero_maj><Date_creation>2023-06-08</Date_creation><app>OpticManager</app></maj>
+<maj id="2"><numero_maj>2</numero_maj><Date_creation>2023-06-08</Date_creation><app>OpticManager</app></maj>
+<maj id="3"><numero_maj>1</numero_maj><Date_creation>2023-06-08</Date_creation><app>GestionEcole</app></maj>
+<maj id="4"><numero_maj>3</numero_maj><Date_creation>2023-06-08</Date_creation><app>OpticManager</app></maj>
+<maj id="5"><numero_maj>2</numero_maj><Date_creation>2023-06-20</Date_creation><app>GestionEcole</app></maj>
+<maj id="6"><numero_maj>1</numero_maj><Date_creation>2023-06-20</Date_creation><app>E-Vente</app></maj>
+<maj id="7"><numero_maj>1</numero_maj><Date_creation>2023-06-20</Date_creation><app>InfoParc</app></maj>
+<maj id="8"><numero_maj>2</numero_maj><Date_creation>2023-06-20</Date_creation><app>InfoParc</app></maj><maj id="9"><numero_maj>2</numero_maj><Date_creation>2023-06-20</Date_creation><app>E-Vente</app></maj><maj id="10"><numero_maj>4</numero_maj><Date_creation>2023-07-03</Date_creation><app>OpticManager</app></maj></majs>

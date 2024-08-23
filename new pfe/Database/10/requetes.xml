@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<requetes>
+<requete numero="1" type="delete" table="Prof" condition="nom='ERRAJY'"><contenu/></requete>
+<requete numero="2" type="delete" table="Prof" condition="nom='KIRAM'"><contenu/></requete>
+<requete numero="3" type="delete" table="Prof" condition="nom='ASRI'"><contenu/></requete>
+<requete numero="4" type="delete" table="Prof" condition="nom='OUAZZANI'"><contenu/></requete>
+
+</requetes>

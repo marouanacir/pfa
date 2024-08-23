@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<requetes>
+    <requete numero="1" type="insert" table="Prof" condition="">
+        <contenu>'ASRI', 'HIBA'</contenu>
+    </requete>
+    <requete numero="2" type="insert" table="Prof" condition="">
+        <contenu>'OUAZZANI', 'ILYASS'</contenu>
+    </requete>
+    <requete numero="3" type="insert" table="Prof" condition="">
+        <contenu>'ERRAJY', 'LATIFA'</contenu>
+    </requete>
+    <requete numero="4" type="insert" table="Prof" condition="">
+        <contenu>'KIRAM', 'AHMED'</contenu>
+    </requete>
+</requetes>

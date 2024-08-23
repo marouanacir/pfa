@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<requetes><requete numero="1" type="update" table="nvreg_client" condition="id_clt=1"><contenu>prenom = 'maroua'</contenu></requete></requetes>
